@@ -31,7 +31,8 @@
 * Short description
 * List of N words, where N is between 1 and 10,  together with their definitions 
 * List of N * 3 incorrect definitions, not tied to any particular word, where N is the number of words in the quiz.
- >To fulfill this requirement “Quiz”, “Word”, ”IncorrectDefinitions”, “practiceQuiz” and “Statistics” classes included in UML design. 
+
+ >To fulfill this requirement “Quiz”, “Word”, ”IncorrectDefinitions” and “practiceQuiz” classes included in UML design. 
 
 ##### 4. To remove a quiz, students must select it from the list of the quizzes they created. Removing a quiz must also remove the score statistics associated with that quiz.
 
